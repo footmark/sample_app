@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>app/views/layouts/application.html.erb</string>
+	<string>webrat.log</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -35,42 +35,28 @@
 			<key>firstVisibleLine</key>
 			<integer>21</integer>
 		</dict>
-		<key>app/controllers/pages_controller.rb</key>
+		<key>spec/requests/layout_links_spec.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>10</integer>
+				<integer>60</integer>
 				<key>line</key>
-				<integer>1</integer>
+				<integer>39</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<integer>18</integer>
 		</dict>
-		<key>app/helpers/application_helper.rb</key>
+		<key>webrat.log</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>52</integer>
 				<key>line</key>
-				<integer>8</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
-		<key>app/views/layouts/application.html.erb</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>23</integer>
-				<key>line</key>
-				<integer>6</integer>
+				<integer>5</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -80,14 +66,12 @@
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>app/controllers/pages_controller.rb</string>
-		<string>Gemfile</string>
-		<string>app/helpers/application_helper.rb</string>
-		<string>app/views/layouts/application.html.erb</string>
+		<string>spec/requests/layout_links_spec.rb</string>
+		<string>webrat.log</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<false/>
 	<key>windowFrame</key>
-	<string>{{609, 265}, {739, 594}}</string>
+	<string>{{683, 218}, {739, 594}}</string>
 </dict>
 </plist>
