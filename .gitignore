@@ -18,4 +18,4 @@
 *~
 .project
 .DS_Store
-.log
+*.log
